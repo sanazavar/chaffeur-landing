@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "Lato-bold";
+    src: url("../fonts/Lato-Bold.ttf") format(truetype);
+}
+@font-face {
+    font-family: "Lato-Regular";
+    src: url("../fonts/Lato-Regular.ttf") format(truetype);
+}
+@font-face {
+    font-family: "Lora-regular";
+    src: url("../fonts/Lora-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Lora-bold";
+    src: url("../fonts/Lora-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Noto-Sans-bold";
+    src: url("../fonts/NotoSans-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Noto-Sans-Regular";
+    src: url("../fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "Noto-sans-semibold";
+    src: url("../fonts/NotoSans-SemiBold.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "Noto-sans-semibold-italic";
+    src: url("../fonts/NotoSans-SemiBoldItalic-600.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "NunitoSans-Regular";
+    src: url("../fonts/NunitoSans-Regular-400.ttf") format("truetype");
+}
+@font-face{
+    font-family: "NunitoSans-light";
+    src: url("../fonts/NunitoSans-Light.ttf") format("truetype");
+}
+@font-face{
+    font-family: "NunitoSans-lighitalict";
+    src: url("../fonts/NunitoSans-LightItalic.ttf") format("truetype");
+}
+@font-face{
+    font-family: "NunitoSans-bold";
+    src: url("../fonts/NunitoSans-Bold.ttf") format("truetype");
+}

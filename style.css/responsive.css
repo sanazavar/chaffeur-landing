@@ -1,0 +1,120 @@
+@media only screen and (max-width: 1400px) {
+
+}
+@media only screen and (max-width: 1200px) {
+.home__shape{
+    width: 500px;
+    height: 500px;
+
+}
+.header__title{
+    font-size: 4.4rem;
+    line-height: 5rem;
+}
+.service-wrapper{
+    padding: 5rem 0;
+}
+}
+@media only screen and (max-width: 992px) {
+.about-wrapper{
+    flex-direction: column-reverse;
+}
+.about__content{
+    padding: 2rem 0;
+}
+.overview-language__count,.overview-seat__count{
+    margin-left: auto;
+}
+}
+
+@media only screen and (max-width: 768px) {
+    .nav{
+        padding: 2rem .75rem;
+    }
+    .home__shape{
+        display: none;
+    }
+
+    .services{
+        padding-top: 2rem;
+    }
+    .Testimonials__content__review {
+        padding: 2rem 4rem;}
+
+    .Testimonials__content__photo{
+        padding-top: 3rem;
+    }
+    .booking__info{
+        font-size: 5rem;
+    }
+    .booking__content {
+        padding: 4rem 0 10rem 0;
+    }
+}
+@media only screen and (max-width: 576px) {
+    .nav__list{
+        display: none;
+    }
+    .nav-toggle-icon{
+
+        display: flex;
+    }
+    .header__title{
+        padding: 0 19rem 0 2rem ;
+    }
+    .header__title::before{
+        left: 0;
+
+    }
+    .service-wrapper{
+        padding:1rem;
+    }
+    .fleet__content{
+        margin: 0 auto;
+    }
+    .numbers-wrapper{
+        flex-direction: column;
+    }
+ .tips,.vehicle{
+    margin-bottom: 4rem;
+ }
+ .booking__info{
+    font-size: 4.6rem;
+}
+.contact__form {
+padding: 6rem 4rem;
+}
+}
+
+@media only screen and (max-width: 460px) {
+  
+  
+    .header__photo-img{
+        width: auto;
+
+    }
+    .services__title{
+        margin-top: 0;
+    }
+    .booking__title{
+        font-size: 2.8rem;
+    }
+    .booking__info{
+        font-size: 3.8rem;
+    }
+    .footer{
+        text-align: center;
+    }
+    .subscribe__box {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+  
+    .subscribe__box__email{
+        margin-bottom: 1rem;
+    }
+ 
+  
+  
+}
